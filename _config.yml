@@ -1,5 +1,5 @@
-title: WarpNet Docs
-description: Documentation for WarpNet project
+title: WarpNet
+description: WarpNet project
 theme: minima
 plugins:
   - jekyll-feed
