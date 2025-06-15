@@ -1,5 +1,8 @@
 title: WarpNet
 description: WarpNet project
+repository: Warp-net/Warp-net.github.io
+organization: Warp-net
+github: [metadata]
 theme: minima
 plugins:
   - jekyll-feed
