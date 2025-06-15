@@ -1,5 +1,7 @@
-The official showcase of all public repositories under the **Warp‑net** GitHub organization.
+
 ---
+The official showcase of all public repositories under the **Warp‑net** GitHub organization.
+
 
 ## [docs](https://github.com/Warp-net/docs)
 **Description:** Core documentation for the WarpNet ecosystem — includes architecture overviews,
