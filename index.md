@@ -1,10 +1,19 @@
 ---
 layout: default
-title: Home
+title: WarpNet Projects
 ---
 
-# Welcome to WarpNet Documentation
+# 🚀 WarpNet Open Source Projects
 
-This is the official documentation site for WarpNet. Here you'll find guides, API references, and architecture overviews.
+Welcome to the official documentation site for the **WarpNet** project and ecosystem. Below is a list of all public repositories maintained by the Warp-net organization.
 
-> Everything below is powered by Jekyll & GitHub Pages.
+{% for repo in site.github.organization.repos %}
+---
+
+## [{{ repo.name }}]({{ repo.html_url }})
+**Language**: {{ repo.language | default: "N/A" }}  
+**Stars**: ⭐ {{ repo.stargazers_count }}  
+
+{{ repo.description | default: "_No description provided._" }}
+
+{% endfor %}
