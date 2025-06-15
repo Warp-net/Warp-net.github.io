@@ -1,5 +1,3 @@
-# 🚀 WarpNet Open Source Projects
-
 The official showcase of all public repositories under the **Warp‑net** GitHub organization.
 
 ---
